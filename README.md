@@ -1,6 +1,8 @@
 # LFM1M-Sensible-Attributes
 A reduced version of LastFM1B dataset obtained by randomly sampling ratings and keeping only users and items with a number of occurences > 10. We also provide its freebase extracted KG. This dataset is though for Explainable Recommendation task through KG but can also be used for general recommendation or knowledge aware recommender systems.
 
+*Note: this format is directly employable to train multiple models from our [PEARLM LIBRARY](https://github.com/Chris1nexus/pearlm)*
+
 This table collects some statistics related to the dataset we are going to cover.
 
 | Domain     	| Dataset Name      	| # of Users 	| # of Items 	| # of Interactions |
